@@ -3,7 +3,7 @@
 A small, reproducible neoantigen prediction workflow run on public example data. It starts from somatic variants that were already called and annotated, so it does not include alignment or variant calling.
 
 ## Data
-HCC1395 breast cancer cell line, tumour-normal example data distributed with pVACtools (`pvacseq download_example_data`).
+HCC1395 (triple-negative breast cancer cell line) with its matched normal lymphoblastoid line HCC1395BL. Example data distributed with pVACtools (`pvacseq download_example_data`; documentation: https://pvactools.readthedocs.io). The same cell-line pair is also the subject of the SEQC2 consortium's cancer mutation benchmark.
 - 1,470 somatic variants in the VCF (VEP-annotated, with expression data)
 - 339 variant lines with a missense annotation
 
