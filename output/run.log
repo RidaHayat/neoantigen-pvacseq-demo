@@ -1,0 +1,448 @@
+Executing MHC Class I predictions
+Converting .vcf to TSV
+frameshift_variant transcript does not contain a FrameshiftSequence. Skipping.
+chr20 57340103 CTA C ENST00000345868.8
+frameshift_variant transcript does not contain a FrameshiftSequence. Skipping.
+chr20 57340103 CTA C ENST00000371260.8
+frameshift_variant transcript does not contain a FrameshiftSequence. Skipping.
+chr20 57340103 CTA C ENST00000371263.8
+Completed
+Converting VCF to TSV
+frameshift_variant transcript does not contain a FrameshiftSequence. Skipping.
+chr20 57340103 CTA C ENST00000345868.8
+frameshift_variant transcript does not contain a FrameshiftSequence. Skipping.
+chr20 57340103 CTA C ENST00000371260.8
+frameshift_variant transcript does not contain a FrameshiftSequence. Skipping.
+chr20 57340103 CTA C ENST00000371263.8
+Completed
+Generating Variant Peptide FASTA and Key File
+Completed
+Parsing the Variant Peptide FASTA and Key File
+Completed
+Calculating Manufacturability Metrics
+Completed
+Splitting TSV into smaller chunks
+Splitting TSV into smaller chunks - Entries 1-100
+Splitting TSV into smaller chunks - Entries 101-200
+Splitting TSV into smaller chunks - Entries 201-300
+Splitting TSV into smaller chunks - Entries 301-400
+Splitting TSV into smaller chunks - Entries 401-500
+Splitting TSV into smaller chunks - Entries 501-600
+Splitting TSV into smaller chunks - Entries 601-700
+Splitting TSV into smaller chunks - Entries 701-800
+Splitting TSV into smaller chunks - Entries 801-900
+Splitting TSV into smaller chunks - Entries 901-955
+Completed
+Generating Variant Peptide FASTA and Key Files
+Generating Variant Peptide FASTA and Key Files - Epitope Length 8 - Entries 1-200
+Generating Variant Peptide FASTA and Key Files - Epitope Length 9 - Entries 1-200
+Generating Variant Peptide FASTA and Key Files - Epitope Length 10 - Entries 1-200
+Generating Variant Peptide FASTA and Key Files - Epitope Length 8 - Entries 201-400
+Generating Variant Peptide FASTA and Key Files - Epitope Length 9 - Entries 201-400
+Generating Variant Peptide FASTA and Key Files - Epitope Length 10 - Entries 201-400
+Generating Variant Peptide FASTA and Key Files - Epitope Length 8 - Entries 401-600
+Generating Variant Peptide FASTA and Key Files - Epitope Length 9 - Entries 401-600
+Generating Variant Peptide FASTA and Key Files - Epitope Length 10 - Entries 401-600
+Generating Variant Peptide FASTA and Key Files - Epitope Length 8 - Entries 601-800
+Generating Variant Peptide FASTA and Key Files - Epitope Length 9 - Entries 601-800
+Generating Variant Peptide FASTA and Key Files - Epitope Length 10 - Entries 601-800
+Generating Variant Peptide FASTA and Key Files - Epitope Length 8 - Entries 801-1000
+Generating Variant Peptide FASTA and Key Files - Epitope Length 9 - Entries 801-1000
+Generating Variant Peptide FASTA and Key Files - Epitope Length 10 - Entries 801-1000
+Generating Variant Peptide FASTA and Key Files - Epitope Length 8 - Entries 1001-1200
+Generating Variant Peptide FASTA and Key Files - Epitope Length 9 - Entries 1001-1200
+Generating Variant Peptide FASTA and Key Files - Epitope Length 10 - Entries 1001-1200
+Generating Variant Peptide FASTA and Key Files - Epitope Length 8 - Entries 1201-1400
+Generating Variant Peptide FASTA and Key Files - Epitope Length 9 - Entries 1201-1400
+Generating Variant Peptide FASTA and Key Files - Epitope Length 10 - Entries 1201-1400
+Generating Variant Peptide FASTA and Key Files - Epitope Length 8 - Entries 1401-1600
+Generating Variant Peptide FASTA and Key Files - Epitope Length 9 - Entries 1401-1600
+Generating Variant Peptide FASTA and Key Files - Epitope Length 10 - Entries 1401-1600
+Generating Variant Peptide FASTA and Key Files - Epitope Length 8 - Entries 1601-1800
+Generating Variant Peptide FASTA and Key Files - Epitope Length 9 - Entries 1601-1800
+Generating Variant Peptide FASTA and Key Files - Epitope Length 10 - Entries 1601-1800
+Generating Variant Peptide FASTA and Key Files - Epitope Length 8 - Entries 1801-1910
+Generating Variant Peptide FASTA and Key Files - Epitope Length 9 - Entries 1801-1910
+Generating Variant Peptide FASTA and Key Files - Epitope Length 10 - Entries 1801-1910
+Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 8 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.8.tsv_1-200
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 8 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.8.tsv_1-200 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 8 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.8.tsv_1-200
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 8 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.8.tsv_1-200 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 9 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.9.tsv_1-200
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 9 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.9.tsv_1-200 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 9 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.9.tsv_1-200
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 9 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.9.tsv_1-200 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 10 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.10.tsv_1-200
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 10 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.10.tsv_1-200 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 10 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.10.tsv_1-200
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 10 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.10.tsv_1-200 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 8 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.8.tsv_1-200
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 8 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.8.tsv_1-200 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 8 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.8.tsv_1-200
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 8 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.8.tsv_1-200 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 9 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.9.tsv_1-200
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 9 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.9.tsv_1-200 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 9 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.9.tsv_1-200
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 9 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.9.tsv_1-200 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 10 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.10.tsv_1-200
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 10 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.10.tsv_1-200 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 10 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.10.tsv_1-200
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 10 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.10.tsv_1-200 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 8 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.8.tsv_201-400
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 8 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.8.tsv_201-400 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 8 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.8.tsv_201-400
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 8 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.8.tsv_201-400 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 9 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.9.tsv_201-400
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 9 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.9.tsv_201-400 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 9 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.9.tsv_201-400
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 9 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.9.tsv_201-400 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 10 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.10.tsv_201-400
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 10 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.10.tsv_201-400 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 10 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.10.tsv_201-400
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 10 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.10.tsv_201-400 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 8 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.8.tsv_201-400
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 8 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.8.tsv_201-400 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 8 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.8.tsv_201-400
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 8 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.8.tsv_201-400 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 9 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.9.tsv_201-400
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 9 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.9.tsv_201-400 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 9 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.9.tsv_201-400
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 9 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.9.tsv_201-400 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 10 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.10.tsv_201-400
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 10 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.10.tsv_201-400 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 10 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.10.tsv_201-400
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 10 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.10.tsv_201-400 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 8 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.8.tsv_401-600
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 8 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.8.tsv_401-600 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 8 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.8.tsv_401-600
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 8 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.8.tsv_401-600 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 9 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.9.tsv_401-600
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 9 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.9.tsv_401-600 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 9 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.9.tsv_401-600
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 9 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.9.tsv_401-600 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 10 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.10.tsv_401-600
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 10 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.10.tsv_401-600 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 10 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.10.tsv_401-600
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 10 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.10.tsv_401-600 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 8 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.8.tsv_401-600
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 8 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.8.tsv_401-600 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 8 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.8.tsv_401-600
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 8 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.8.tsv_401-600 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 9 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.9.tsv_401-600
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 9 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.9.tsv_401-600 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 9 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.9.tsv_401-600
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 9 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.9.tsv_401-600 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 10 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.10.tsv_401-600
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 10 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.10.tsv_401-600 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 10 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.10.tsv_401-600
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 10 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.10.tsv_401-600 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 8 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.8.tsv_601-800
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 8 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.8.tsv_601-800 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 8 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.8.tsv_601-800
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 8 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.8.tsv_601-800 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 9 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.9.tsv_601-800
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 9 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.9.tsv_601-800 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 9 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.9.tsv_601-800
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 9 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.9.tsv_601-800 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 10 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.10.tsv_601-800
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 10 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.10.tsv_601-800 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 10 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.10.tsv_601-800
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 10 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.10.tsv_601-800 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 8 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.8.tsv_601-800
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 8 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.8.tsv_601-800 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 8 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.8.tsv_601-800
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 8 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.8.tsv_601-800 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 9 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.9.tsv_601-800
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 9 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.9.tsv_601-800 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 9 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.9.tsv_601-800
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 9 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.9.tsv_601-800 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 10 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.10.tsv_601-800
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 10 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.10.tsv_601-800 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 10 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.10.tsv_601-800
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 10 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.10.tsv_601-800 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 8 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.8.tsv_801-1000
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 8 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.8.tsv_801-1000 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 8 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.8.tsv_801-1000
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 8 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.8.tsv_801-1000 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 9 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.9.tsv_801-1000
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 9 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.9.tsv_801-1000 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 9 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.9.tsv_801-1000
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 9 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.9.tsv_801-1000 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 10 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.10.tsv_801-1000
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 10 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.10.tsv_801-1000 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 10 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.10.tsv_801-1000
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 10 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.10.tsv_801-1000 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 8 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.8.tsv_801-1000
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 8 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.8.tsv_801-1000 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 8 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.8.tsv_801-1000
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 8 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.8.tsv_801-1000 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 9 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.9.tsv_801-1000
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 9 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.9.tsv_801-1000 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 9 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.9.tsv_801-1000
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 9 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.9.tsv_801-1000 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 10 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.10.tsv_801-1000
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 10 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.10.tsv_801-1000 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 10 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.10.tsv_801-1000
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 10 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.10.tsv_801-1000 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 8 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.8.tsv_1001-1200
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 8 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.8.tsv_1001-1200 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 8 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.8.tsv_1001-1200
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 8 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.8.tsv_1001-1200 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 9 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.9.tsv_1001-1200
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 9 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.9.tsv_1001-1200 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 9 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.9.tsv_1001-1200
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 9 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.9.tsv_1001-1200 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 10 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.10.tsv_1001-1200
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 10 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.10.tsv_1001-1200 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 10 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.10.tsv_1001-1200
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 10 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.10.tsv_1001-1200 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 8 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.8.tsv_1001-1200
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 8 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.8.tsv_1001-1200 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 8 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.8.tsv_1001-1200
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 8 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.8.tsv_1001-1200 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 9 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.9.tsv_1001-1200
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 9 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.9.tsv_1001-1200 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 9 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.9.tsv_1001-1200
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 9 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.9.tsv_1001-1200 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 10 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.10.tsv_1001-1200
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 10 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.10.tsv_1001-1200 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 10 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.10.tsv_1001-1200
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 10 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.10.tsv_1001-1200 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 8 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.8.tsv_1201-1400
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 8 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.8.tsv_1201-1400 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 8 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.8.tsv_1201-1400
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 8 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.8.tsv_1201-1400 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 9 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.9.tsv_1201-1400
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 9 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.9.tsv_1201-1400 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 9 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.9.tsv_1201-1400
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 9 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.9.tsv_1201-1400 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 10 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.10.tsv_1201-1400
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 10 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.10.tsv_1201-1400 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 10 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.10.tsv_1201-1400
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 10 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.10.tsv_1201-1400 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 8 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.8.tsv_1201-1400
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 8 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.8.tsv_1201-1400 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 8 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.8.tsv_1201-1400
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 8 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.8.tsv_1201-1400 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 9 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.9.tsv_1201-1400
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 9 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.9.tsv_1201-1400 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 9 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.9.tsv_1201-1400
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 9 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.9.tsv_1201-1400 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 10 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.10.tsv_1201-1400
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 10 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.10.tsv_1201-1400 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 10 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.10.tsv_1201-1400
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 10 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.10.tsv_1201-1400 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 8 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.8.tsv_1401-1600
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 8 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.8.tsv_1401-1600 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 8 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.8.tsv_1401-1600
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 8 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.8.tsv_1401-1600 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 9 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.9.tsv_1401-1600
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 9 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.9.tsv_1401-1600 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 9 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.9.tsv_1401-1600
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 9 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.9.tsv_1401-1600 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 10 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.10.tsv_1401-1600
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 10 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.10.tsv_1401-1600 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 10 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.10.tsv_1401-1600
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 10 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.10.tsv_1401-1600 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 8 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.8.tsv_1401-1600
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 8 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.8.tsv_1401-1600 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 8 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.8.tsv_1401-1600
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 8 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.8.tsv_1401-1600 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 9 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.9.tsv_1401-1600
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 9 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.9.tsv_1401-1600 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 9 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.9.tsv_1401-1600
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 9 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.9.tsv_1401-1600 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 10 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.10.tsv_1401-1600
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 10 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.10.tsv_1401-1600 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 10 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.10.tsv_1401-1600
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 10 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.10.tsv_1401-1600 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 8 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.8.tsv_1601-1800
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 8 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.8.tsv_1601-1800 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 8 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.8.tsv_1601-1800
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 8 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.8.tsv_1601-1800 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 9 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.9.tsv_1601-1800
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 9 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.9.tsv_1601-1800 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 9 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.9.tsv_1601-1800
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 9 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.9.tsv_1601-1800 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 10 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.10.tsv_1601-1800
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 10 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.10.tsv_1601-1800 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 10 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.10.tsv_1601-1800
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 10 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.10.tsv_1601-1800 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 8 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.8.tsv_1601-1800
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 8 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.8.tsv_1601-1800 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 8 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.8.tsv_1601-1800
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 8 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.8.tsv_1601-1800 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 9 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.9.tsv_1601-1800
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 9 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.9.tsv_1601-1800 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 9 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.9.tsv_1601-1800
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 9 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.9.tsv_1601-1800 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 10 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.10.tsv_1601-1800
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 10 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.10.tsv_1601-1800 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 10 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.10.tsv_1601-1800
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 10 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.10.tsv_1601-1800 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 8 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.8.tsv_1801-1910
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 8 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.8.tsv_1801-1910 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 8 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.8.tsv_1801-1910
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 8 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.8.tsv_1801-1910 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 9 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.9.tsv_1801-1910
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 9 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.9.tsv_1801-1910 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 9 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.9.tsv_1801-1910
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 9 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.9.tsv_1801-1910 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 10 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.10.tsv_1801-1910
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 10 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-A*29:02.10.tsv_1801-1910 - Completed
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 10 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.10.tsv_1801-1910
+Making binding predictions on Allele HLA-A*29:02 and Epitope Length 10 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-A*29:02.10.tsv_1801-1910 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 8 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.8.tsv_1801-1910
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 8 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.8.tsv_1801-1910 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 8 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.8.tsv_1801-1910
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 8 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.8.tsv_1801-1910 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 9 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.9.tsv_1801-1910
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 9 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.9.tsv_1801-1910 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 9 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.9.tsv_1801-1910
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 9 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.9.tsv_1801-1910 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 10 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.10.tsv_1801-1910
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 10 with Method MHCflurry - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCflurry.HLA-B*45:01.10.tsv_1801-1910 - Completed
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 10 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.10.tsv_1801-1910
+Making binding predictions on Allele HLA-B*45:01 and Epitope Length 10 with Method MHCnuggetsI - File /pvacseq_output_data/MHC_Class_I/tmp/HCC1395_TUMOR_DNA.MHCnuggetsI.HLA-B*45:01.10.tsv_1801-1910 - Completed
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 8 - Entries 1-200
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 8 - Entries 1-200 - Completed
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 9 - Entries 1-200
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 9 - Entries 1-200 - Completed
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 10 - Entries 1-200
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 10 - Entries 1-200 - Completed
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 8 - Entries 1-200
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 8 - Entries 1-200 - Completed
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 9 - Entries 1-200
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 9 - Entries 1-200 - Completed
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 10 - Entries 1-200
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 10 - Entries 1-200 - Completed
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 8 - Entries 201-400
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 8 - Entries 201-400 - Completed
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 9 - Entries 201-400
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 9 - Entries 201-400 - Completed
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 10 - Entries 201-400
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 10 - Entries 201-400 - Completed
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 8 - Entries 201-400
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 8 - Entries 201-400 - Completed
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 9 - Entries 201-400
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 9 - Entries 201-400 - Completed
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 10 - Entries 201-400
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 10 - Entries 201-400 - Completed
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 8 - Entries 401-600
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 8 - Entries 401-600 - Completed
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 9 - Entries 401-600
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 9 - Entries 401-600 - Completed
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 10 - Entries 401-600
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 10 - Entries 401-600 - Completed
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 8 - Entries 401-600
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 8 - Entries 401-600 - Completed
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 9 - Entries 401-600
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 9 - Entries 401-600 - Completed
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 10 - Entries 401-600
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 10 - Entries 401-600 - Completed
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 8 - Entries 601-800
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 8 - Entries 601-800 - Completed
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 9 - Entries 601-800
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 9 - Entries 601-800 - Completed
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 10 - Entries 601-800
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 10 - Entries 601-800 - Completed
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 8 - Entries 601-800
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 8 - Entries 601-800 - Completed
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 9 - Entries 601-800
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 9 - Entries 601-800 - Completed
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 10 - Entries 601-800
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 10 - Entries 601-800 - Completed
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 8 - Entries 801-1000
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 8 - Entries 801-1000 - Completed
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 9 - Entries 801-1000
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 9 - Entries 801-1000 - Completed
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 10 - Entries 801-1000
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 10 - Entries 801-1000 - Completed
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 8 - Entries 801-1000
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 8 - Entries 801-1000 - Completed
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 9 - Entries 801-1000
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 9 - Entries 801-1000 - Completed
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 10 - Entries 801-1000
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 10 - Entries 801-1000 - Completed
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 8 - Entries 1001-1200
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 8 - Entries 1001-1200 - Completed
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 9 - Entries 1001-1200
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 9 - Entries 1001-1200 - Completed
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 10 - Entries 1001-1200
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 10 - Entries 1001-1200 - Completed
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 8 - Entries 1001-1200
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 8 - Entries 1001-1200 - Completed
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 9 - Entries 1001-1200
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 9 - Entries 1001-1200 - Completed
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 10 - Entries 1001-1200
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 10 - Entries 1001-1200 - Completed
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 8 - Entries 1201-1400
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 8 - Entries 1201-1400 - Completed
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 9 - Entries 1201-1400
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 9 - Entries 1201-1400 - Completed
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 10 - Entries 1201-1400
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 10 - Entries 1201-1400 - Completed
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 8 - Entries 1201-1400
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 8 - Entries 1201-1400 - Completed
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 9 - Entries 1201-1400
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 9 - Entries 1201-1400 - Completed
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 10 - Entries 1201-1400
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 10 - Entries 1201-1400 - Completed
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 8 - Entries 1401-1600
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 8 - Entries 1401-1600 - Completed
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 9 - Entries 1401-1600
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 9 - Entries 1401-1600 - Completed
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 10 - Entries 1401-1600
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 10 - Entries 1401-1600 - Completed
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 8 - Entries 1401-1600
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 8 - Entries 1401-1600 - Completed
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 9 - Entries 1401-1600
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 9 - Entries 1401-1600 - Completed
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 10 - Entries 1401-1600
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 10 - Entries 1401-1600 - Completed
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 8 - Entries 1601-1800
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 8 - Entries 1601-1800 - Completed
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 9 - Entries 1601-1800
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 9 - Entries 1601-1800 - Completed
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 10 - Entries 1601-1800
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 10 - Entries 1601-1800 - Completed
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 8 - Entries 1601-1800
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 8 - Entries 1601-1800 - Completed
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 9 - Entries 1601-1800
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 9 - Entries 1601-1800 - Completed
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 10 - Entries 1601-1800
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 10 - Entries 1601-1800 - Completed
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 8 - Entries 1801-1910
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 8 - Entries 1801-1910 - Completed
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 9 - Entries 1801-1910
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 9 - Entries 1801-1910 - Completed
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 10 - Entries 1801-1910
+Parsing prediction file for Allele HLA-A*29:02 and Epitope Length 10 - Entries 1801-1910 - Completed
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 8 - Entries 1801-1910
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 8 - Entries 1801-1910 - Completed
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 9 - Entries 1801-1910
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 9 - Entries 1801-1910 - Completed
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 10 - Entries 1801-1910
+Parsing prediction file for Allele HLA-B*45:01 and Epitope Length 10 - Entries 1801-1910 - Completed
+Combining Parsed Prediction Files
+Completed
+Marking genes of interest
+Completed
+Creating aggregated report
+Tumor clonal VAF estimated as 0.5 (estimated from Tumor DNA VAF data). Assuming variants with VAF < 0.25 are subclonal
+Completed
+Calculating Manufacturability Metrics
+Completed
+Running Binding Filters
+Completed
+Running Coverage Filters
+Completed
+Running Transcript Support Level Filter
+Complete
+Running Top Score Filter
+Completed
+
+Done: Pipeline finished successfully. File /pvacseq_output_data/MHC_Class_I/HCC1395_TUMOR_DNA.MHC_I.filtered.tsv contains list of filtered putative neoantigens.
+
+No MHC class II prediction algorithms chosen. Skipping MHC class II predictions.
